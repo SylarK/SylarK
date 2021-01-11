@@ -1,6 +1,5 @@
 ### Hi there 👋, Meu nome é Lucas
-#### Sou um desenvolvedor full-stack iniciante mas muito dedicado! 
-#### Gosto muito de me aventurar pelo web design nas horas vagas e jogar vídeo game.
+#### Desenvolvedor full-stack, com sede por conhecimento ! 
 
 Sou persistente, perseverante, resiliente, amo aprender e sou completamente dedicado naquilo que me comprometo a fazer... ou seja, sou um programador.
 Totalmente aficionado pela tecnologia e pela possibilidade de criar soluções através de linhas de código, ao mesmo tempo em que sou um amante da educação e da transmissão de conhecimento.
